@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sewer-line-repair-dallas.pages.dev/sitemap.xml
